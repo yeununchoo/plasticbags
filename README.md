@@ -18,6 +18,12 @@ The purpose of this project is to build a series of models that can predict if a
 
 The data is from a [public policy study](https://dx.doi.org/10.3389/fpsyg.2019.00266) by Thomas et al.. The [observational data](https://dx.doi.org/10.5255/UKDA-SN-852642), was kindly shared under the Creative Commons license [CC-By-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
 
+A selection of several classification algorithms was then applied and evaluated, followed by an analysis on global and local feature importance.
+
+The most predictive model was the XGBoost. However, the mean balanced accuracy scores of all models are within the narrow range between 68% and 69.5%, other than the KNN model. 
+
+More on the [report](https://github.com/yeununchoo/plasticbags/tree/main/report).
+
 ## Enviornment
 
 Python version is 3.9.7, and here are the versions of the major packages used. 
