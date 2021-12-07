@@ -4,11 +4,9 @@
 
 **Predicting green customer behavior to avoid single-use plastic bags**
 
-Yeunun Choo
+Yeunun Choo 
 
-Individual Project 
-
-Data 1030
+Data 1030, Individual Project
 
 Fall 2021
 
@@ -37,7 +35,7 @@ See the [environment.yml](https://github.com/yeununchoo/plasticbags/blob/main/en
 
 ## License
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
