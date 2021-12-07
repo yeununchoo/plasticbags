@@ -1,0 +1,1 @@
+{"l1": {"C": 0.1778279410038923, "class_weight": "balanced"}, "l2": {"C": 0.1, "class_weight": "balanced"}, "elastic": {"C": 0.1778279410038923, "class_weight": "balanced", "l1_ratio": 0.4}}
