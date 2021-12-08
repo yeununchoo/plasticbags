@@ -24,7 +24,7 @@ The most predictive model was the XGBoost. However, the mean balanced accuracy s
 
 More on the [report](https://github.com/yeununchoo/plasticbags/tree/main/report).
 
-## Enviornment
+## Environment
 
 Python version is 3.9.7, and here are the versions of the major packages used. 
 
@@ -43,7 +43,7 @@ See the [environment.yml](https://github.com/yeununchoo/plasticbags/blob/main/en
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This work is licensed under a
+This work is licensed under the
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
